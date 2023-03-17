@@ -1,13 +1,11 @@
 - 👋 Hi, I’m Emmanouil Sylligardos, a graduate student at the Computer Science Department, University of Crete. Additionally, I
-work as a graduate research assistant at the Computational Vision and Robotics Laboratory (CVRL) at ICS, FORTH.
+work as a graduate fellow researcher at the Computational Vision and Robotics Laboratory (CVRL) at ICS, FORTH.
  
-- 👀 I’m interested in International Latin Dancing and Skateboarding. However, regarding Computer Science, I tend to work more with AI and specifically Deep Learning.
+- 👀 I’m interested in Dancing and Skateboarding. Regarding Computer Science, I tend to work more with Machine Learning.
  
-- 🌱 I’m currently learning Python 3 and the Tensorflow and Keras libraries. However, since I'm easily getting bored I try to always
-explore more than one thing at a time. Thus, I also learn OCaml in the university and I find it very interesting.
+- 🌱 I’m currently learning how to research (which is almost a paradox I believe)
  
-- 💞️ I’m looking to collaborate on any domain actually. I wouldn't like to restrict myself in a single subject already. However, I'm extremely interested
-and motivated in projects that have an immediate impact to the world (e.g. AI & Medicine, AI to improve the lives of people with disabilities)
+- 💞️ I’m looking for a PhD.
  
 - 📫 You can reach me at sylligardo@ics.forth.gr (That is my professional email address at ICS, FORTH.)
 
