@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Emmanouil Sylligardos, a graduate student at the Computer Science Department, University of Crete. Additionally, I
-work as a graduate fellow researcher at the Computational Vision and Robotics Laboratory (CVRL) at ICS, FORTH.
+- 👋 Hi, I’m Emmanouil Sylligardos, a postgraduate student at the CSD, UOC.  I work as a graduate fellow researcher at the Computational Vision and Robotics Laboratory (CVRL) at ICS, FORTH.
  
-- 👀 I’m interested in Dancing and Skateboarding. Regarding Computer Science, I tend to work more with Machine Learning.
- 
-- 🌱 I’m currently learning how to research (which is almost a paradox I believe)
+- 👀 I’m interested in Deep Learning.
  
 - 💞️ I’m looking for a PhD.
  
