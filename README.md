@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Emmanouil Sylligardos, a PhD student at ENS.
+- 👋 Hi, I’m Emmanouil Sylligardos, a PhD student at ENS that has just started his journey and it kinda lost but stays cool.
  
-- 👀 I’m interested in ML for Time Series.
+- 👀 I’m interested in ML for Time Series since life got me there :P
+
+- <3 I'm looking for an academic internship, so if you are working on a similar subject hit me up!
   
 - 📫 You can reach me at hiimsylli@gmail.com
 
