@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmanouil Sylligardos, a PhD student at ENS that has just started his journey and it kinda lost but stays cool.
+- 👋 Hi, I’m Emmanouil Sylligardos, a PhD student at ENS that has just started his journey and is kinda lost but stays cool.
  
 - 👀 I’m interested in ML for Time Series since life got me there :P
 
