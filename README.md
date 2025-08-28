@@ -1,10 +1,13 @@
-👋 Hi, I’m Emmanouil Sylligardos, a PhD student at ENS that has just started his journey. 😎
+Hi all, 
 
-👀 I’m interested in ML for Time Series since life got me there 😜
+I’m Emmanouil Sylligardos (Sylli), I come from Greece, Crete and I like dancing, research and motorbike trips (not necessarily in that order).
 
-❤️ I'm looking for an academic internship at some point, so if you are working on a similar subject, hit me up!
+My research mainly focuses on Time Series Anomaly Detection (TSAD), but it's not limited to that. My dancing skills are mostly in Latin dances, but like my research, they are not limited to that :P. I'm currently looking for an internship, so if you are working on a similar subject and would like to collaborate, feel free to reach out!
   
-📫 You can reach me at hiimsylli@gmail.com
+You can reach me at hiimsylli@gmail.com .
+
+Best,
+Sylli.
 
 <!---
 sylligardos/sylligardos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
