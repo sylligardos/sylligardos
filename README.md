@@ -6,7 +6,7 @@ My research mainly focuses on Time Series Anomaly Detection (TSAD), but it's not
   
 You can reach me at hiimsylli@gmail.com .
 
-Best,
+Best,  
 Sylli.
 
 <!---
